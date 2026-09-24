@@ -22,5 +22,5 @@ Do not paste the file itself into a chat: the pictures live inside it and it is 
 | `VEYRE.html` | Hand-made watches; every number clear: price, size, how many of 24 left. · ساعات يدوية، كل رقم واضح. | The customer picks their watch and reserves it by number. · العميل يختار الساعة مالته ويحجزها برقمها. |
 | `COALYARD.html` | A charcoal grill; a daylight poster, heavy type, one colour. · مشاوي، poster بخط عريض ولون واحد. | Every dish with its price, a table that totals itself, "open now?" from the clock. · كل شي بسعره، والطاولة تحسب نفسها. |
 
-Checked 2026-09-24: all six open from the file with the network blocked, at phone size (390×844) and laptop size (1280×800) — shots in `look/`, the log in `look/RESULT.txt`.
+Checked 2026-09-24 (v2 check, after the evaluation): all six open from the file alone — the network blocked and ANY request other than the file itself counted as a failure — at phone size (390×844) and laptop size (1280×800), and each one's control was driven and reacted (the pearl, the sun hour, the roast, the fit, the watch, the table). JAMR · NASEEJ · VEYRE · COALYARD now carry their script inside the file (it used to sit beside them and was missing). Shots in `look/`, the log in `look/RESULT.txt`.
 Designed by E.B.E - powered by E-VIAS
