@@ -5,6 +5,9 @@
 > ست مواقع من الـreel، كل واحد **file واحد** تفتحه من التلفون بدون internet ولا app.
 > كلها مشاريع مو حقيقية سويناها حق التحدي: تاخذ الطريقة، مو المحتوى ولا الصور.
 
+
+**The whole folder, on GitHub · الـfolder كامل على GitHub:** https://github.com/ebraheembinessa-E-vias/community-design-system
+
 ## How to open one on your phone · شلون تفتحه من التلفون
 1. Send the file to yourself on WhatsApp, or save it to Files. · ترسل الـfile لنفسك بالـWhatsApp، او تحطه بالـFiles.
 2. Tap it: it opens in the browser like any website. · تفتحه: يطلع لك نفس اي website.
